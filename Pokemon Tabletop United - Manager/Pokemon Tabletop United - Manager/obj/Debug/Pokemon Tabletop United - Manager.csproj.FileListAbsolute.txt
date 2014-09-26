@@ -1,0 +1,2 @@
+d:\documents\visual studio 2012\Projects\Pokemon Tabletop United - Manager\Pokemon Tabletop United - Manager\bin\Debug\Pokemon Tabletop United - Manager.exe.config
+D:\Documents\GitHub\PTU_Manager\Pokemon Tabletop United - Manager\Pokemon Tabletop United - Manager\bin\Debug\Pokemon Tabletop United - Manager.exe.config
